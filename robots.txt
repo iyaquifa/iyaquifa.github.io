@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://iyaquifa.github.io/AZY/sitemap_index.txt
+Sitemap: https://iyaquifa.github.io/XBq/sitemap_index.txt
+Sitemap: https://iyaquifa.github.io/XYa/sitemap_index.txt
+Sitemap: https://iyaquifa.github.io/bVY/sitemap_index.txt
